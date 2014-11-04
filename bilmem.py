@@ -1,0 +1,2 @@
+print "bu sefer yazacak"
+
