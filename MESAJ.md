@@ -1,0 +1,4 @@
+#basligimiz
+
+ben yazdim
+
